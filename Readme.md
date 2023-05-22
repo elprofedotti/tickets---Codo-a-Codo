@@ -1,4 +1,4 @@
-## Pasos para ejecutar la aplicación
+# Pasos para ejecutar la aplicación
 
 1. :arrow_down: Descarga el archivo `.zip` del repositorio de Git. 
 2. :package: Descomprime el archivo `.zip`. 
