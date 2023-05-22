@@ -1,4 +1,4 @@
-# Pasos para ejecutar la aplicación
+## Pasos para ejecutar la aplicación
 
 1. :arrow_down: Descarga el archivo `.zip` del repositorio de Git. 
 2. :package: Descomprime el archivo `.zip`. 
@@ -8,4 +8,4 @@
 
 <hr>
 
-## En la carpeta src, se encuentra una carpeta img, con imagenes q deberás cortar y pegar en la carpeta que se gnera en el Build, tambien llamada img
+# En la carpeta src, se encuentra una carpeta img, con imagenes q deberás cortar y pegar en la carpeta que se gnera en el Build, tambien llamada img
