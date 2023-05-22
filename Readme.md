@@ -8,4 +8,4 @@
 
 <hr>
 
-# En la carpeta src, se encuentra una carpeta img, con imagenes q deberás cortar y pegar en la carpeta que se gnera en el Build, tambien llamada img
+## En la carpeta src, se encuentra una carpeta img, con imagenes q deberás cortar y pegar en la carpeta que se gnera en el Build, tambien llamada img
