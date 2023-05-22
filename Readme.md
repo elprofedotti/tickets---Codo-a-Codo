@@ -1,6 +1,6 @@
 # Pasos para ejecutar la aplicación
 
-1. :arrow_down: Descarga el archivo `.zip` del repositorio de Git. 
+1. :arrow_down: Descarga todos los archivos como `.zip` del repositorio de Git. 
 2. :package: Descomprime el archivo `.zip`. 
 3. :wrench: Ejecuta `npm install` para instalar las dependencias de Node.js. 
 4. :wrench: Ejecuta `composer install` para instalar las dependencias de Composer. 
