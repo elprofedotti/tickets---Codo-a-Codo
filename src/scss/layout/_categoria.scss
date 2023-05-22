@@ -1,0 +1,42 @@
+fieldset{
+    margin-bottom: 2rem;
+}
+@include tablet{
+    fieldset {
+        margin-bottom: 0;
+    }
+    .categoria-tickets{
+        @include grid(3, 2rem);
+    }
+}
+.categoria{
+    
+    text-align: center;
+    img{
+        height: 10rem;
+    }
+    h3{
+        text-transform: uppercase;
+    }
+    
+    .descuento{
+        color: rgb(0, 0, 0);
+        p{
+           background-color: rgb(0, 0, 0);
+           color: rgb(255, 255, 255);
+           font-weight: 700;
+        }
+        span{
+            
+            animation: parpadeo 3s infinite;
+        }
+    }
+    .presentardocu{
+        p{
+            color: rgb(255, 0, 0);
+            font-weight: 300;
+            
+         }
+    }
+
+}

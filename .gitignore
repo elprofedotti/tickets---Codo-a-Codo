@@ -1,0 +1,5 @@
+/.vscode
+/build
+/composer.lock
+/node_modules
+/vendor
