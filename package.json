@@ -1,12 +1,12 @@
 {
-  "name": "bienesraices",
+  "name": "TP Integrador 2 - Fullstack php",
   "version": "1.0.0",
-  "description": "Curso Desarrollo Web Completo",
+  "description": "Curso fullstack",
   "main": "gulpfile.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Juan De La Torre",
+  "author": "@elprofedotti",
   "license": "ISC",
   "devDependencies": {
     "cssnano": "^5.1.0",
